@@ -2,3 +2,4 @@ tensorflow
 torch 
 torchvision 
 gunicorn
+flask
